@@ -19,12 +19,6 @@
         <tag>master</tag>
         <url>scm:git:git@github.com:Jahia/jahia-cookie-consent</url>
     </scm>
-    <distributionManagement>
-        <repository>
-            <id>jahia-public-app-store</id>
-            <url>http://store.jahia.com/nexus/content/repositories/jahia-public-app-store</url>
-        </repository>
-    </distributionManagement>
     <repositories>
         <repository>
             <releases>
