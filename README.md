@@ -1,5 +1,8 @@
 # Jahia Cookie Consent
 
+***This module is a fork from Smile-SA partner module: [jahia-cookie-consent](https://github.com/Smile-SA/jahia-cookie-consent)***
+
+
 Digital Factory module to deal with the EU Cookie Law.
 
 Lightweight module for alerting users about the use of cookies on your website.
